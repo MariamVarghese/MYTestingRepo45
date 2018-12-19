@@ -3,6 +3,6 @@ Feature:My Feature
 
 Background:
 
-Scenario: Test-Test Edited Scenario
-           And Iam Logged into my PL
+Scenario: Test-Test Edited Scenario Name Added567
+           Hai
 
